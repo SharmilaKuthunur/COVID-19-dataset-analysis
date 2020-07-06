@@ -1,1 +1,1 @@
-# NOAA-Earthquakes-Dataset
+# COVID-19 dataset analysis
